@@ -1,0 +1,38 @@
+img {
+    min-width: 200px;
+    max-width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+body {
+    background: #F5F5DCFF;
+}
+
+h1 {
+    background: #FFF0F5FF;
+    color: #6a0c36;
+    font-family: courier;
+    text-align: center;
+}
+
+p {
+    background: #FFF0F5FF;
+    color: #0000FFFF
+}
+
+ul {
+    background: #FFFF00FF;
+    color: #00008BFF;
+}
+
+a {
+    background: #0000FFFF;
+    color: #FFFF00FF;
+}
+
+a:hover {
+    color: #FFFFFFFF;
+}
