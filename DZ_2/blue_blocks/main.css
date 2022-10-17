@@ -1,0 +1,44 @@
+body {
+    margin: 60px;
+}
+
+.mainWidget {
+    background: #246abb;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.widgets {
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+}
+
+.widget {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+    height: 400px;
+    background: #18467b;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #246abb;
+    height: 800px;
+}
+
+.widgets_description {
+    color: #ffffff;
+    box-sizing: border-box;
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+}
