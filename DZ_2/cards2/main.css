@@ -1,0 +1,80 @@
+.container {
+    background: #ffffff;
+    margin-top: 25px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 350px;
+    height: 500px;
+    background: #ffffff;
+    box-shadow: 0 0 4px;
+    margin-top: 10px;
+}
+
+.fa-im{
+    font-size: 60px;
+    color: #a4a4a4;
+}
+
+.ico {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+
+.title {
+    color: #e09515;
+    box-sizing: border-box;
+    padding: 1px;
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+.description {
+    color: #a4a4a4;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 30px
+}
+
+.descr {
+    color: #444141;
+    box-sizing: border-box;
+    padding: 1px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    text-transform: uppercase;
+}
+
+.but_block {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    display: flex;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background: #35ca9e;
+}
+
+
+

@@ -1,0 +1,46 @@
+.container {
+    background: #3da2c2;
+
+}
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.blockCard {
+    margin-top: 25px;
+}
+
+.card {
+    display: flex;
+    width: 550px;
+    height: 150px;
+    background: #ffffff;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+.ico {
+    display: flex;
+    align-items: center;
+    height: 150px;
+    margin-left: 50px;
+}
+
+.fa-ico {
+    font-size: 60px;
+    color: #a4a4a4;
+}
+
+.txt {
+    margin-left: 20px;
+}
+
+h2 {
+    color: sandybrown;
+}
+
+p {
+    color: #a4a4a4;
+}
