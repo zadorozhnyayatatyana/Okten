@@ -1,0 +1,53 @@
+.block-main {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 25px;
+}
+
+.block-a {
+    width: 100%;
+    height: 250px;
+}
+
+.block-bcdef {
+    box-sizing: border-box;
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.block-bcde {
+    width: 68%;
+    height: 550px;
+}
+
+.block-cde {
+    box-sizing: border-box;
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    height: 255px;
+}
+
+.block-b {
+    height: 250px;
+}
+
+.block-little {
+    width: 32%;
+    height: 280px;
+}
+
+.block-f {
+    width: 30%;
+    height: 550px;
+}
+
+.radius{
+    border-radius: 10px;
+}
+
+.block-color {
+    background: #C0C0C0FF;
+}
+

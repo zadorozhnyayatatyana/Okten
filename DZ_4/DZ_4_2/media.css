@@ -1,0 +1,19 @@
+@media only screen
+and (min-width: 0) and (max-width: 1000px) {
+
+    .block-bcdef {
+        flex-direction: column;
+    }
+
+    .block-bcde {
+        width: 100%;
+    }
+
+    .block-f {
+        width: 100%;
+        height: 250px;
+        box-sizing: border-box;
+        margin-top: 25px;
+    }
+
+}
